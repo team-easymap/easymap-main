@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/team-easymap/easymap-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/team-easymap/easymap-backend.git
+[submodule "data"]
+	path = data
+	url = https://github.com/team-easymap/easymap-data.git
